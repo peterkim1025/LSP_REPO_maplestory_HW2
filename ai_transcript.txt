@@ -1,0 +1,24 @@
+## AI Usage Summary
+
+1. **Summary of AI Use:**  
+   I used GitHub Copilot (AI) to assist with code review, CSV file handling, and troubleshooting issues in Visual Studio Code. The AI provided suggestions for code improvements, explained error messages, and offered step-by-step instructions for editing files and resolving editor issues.
+
+2. **Sample Prompt:**  
+   ```
+   how is my existing data in my products.csv
+   ```
+
+3. **AI Response Excerpt:**  
+   ```
+   Your data/products.csv data is well-formatted and matches the expected schema:
+   - Header present: ProductID,Name,Price,Category
+   - Consistent columns: Each row has 4 fields.
+   - Data types: ProductID is numeric, Price uses decimals, Category and Name are strings.
+   - No obvious errors: No missing or malformed values.
+   This file is ready for your ETL pipeline and should process correctly.
+   ```
+
+4. **How I Used the Response:**  
+   I used the AI’s feedback to confirm my CSV file was correctly formatted and ready for processing. I also followed its troubleshooting steps to resolve editing issues in VS Code.
+
+---
