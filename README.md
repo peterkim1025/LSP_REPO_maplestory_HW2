@@ -1,4 +1,3 @@
-# LSP_REPO_maplestory_HW2
 # ETL Pipeline Assignment
 
 ## Overview
