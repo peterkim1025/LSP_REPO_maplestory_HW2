@@ -1,0 +1,19 @@
+ProductID,Name,Price,Category,PriceRange
+1,BOOK,12.99,Education,Medium
+2,LAPTOP,899.99,Premium Electronics,Premium
+3,NOTEBOOK,2.49,Stationery,Low
+4,HEADPHONES,179.99,Electronics,High
+5,PENCIL,0.99,Stationery,Low
+6,SMARTPHONE,629.54,Premium Electronics,Premium
+7,BACKPACK,49.99,Accessories,Medium
+8,TABLET,296.99,Electronics,High
+9,DESK LAMP,29.99,Furniture,Medium
+11,MONITOR,143.99,Electronics,High
+12,MOUSE,22.94,Electronics,Medium
+13,KEYBOARD,41.39,Electronics,Medium
+14,WATER BOTTLE,15.99,Accessories,Medium
+15,CALCULATOR,19.99,Education,Medium
+16,PRINTER,116.99,Electronics,High
+17,DESK,149.99,Furniture,High
+18,FILE ORGANIZER,9.99,Stationery,Low
+19,SPEAKERS,71.99,Electronics,Medium

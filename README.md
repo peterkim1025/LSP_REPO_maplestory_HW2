@@ -24,4 +24,4 @@ This project implements a simple ETL (Extract, Transform, Load) pipeline in Java
 2. Compile and run the Java program:
    ```sh
    javac src/org/howard/edu/lsp/assignment2/ETLPipeline.java
-   java -cp
+   java -cp bin ETLPipeline
